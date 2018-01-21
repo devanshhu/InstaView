@@ -1,7 +1,7 @@
 
 from soup_maker import make_soup
 from get_details import get_detail
-from gui1 import returnval,make_l
+# from gui1 import returnval,make_l
 
 rawurl=''
 if __name__=='__main__':

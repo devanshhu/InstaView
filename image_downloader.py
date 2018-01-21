@@ -1,4 +1,5 @@
 import urllib
+import os
 
 
 def image_downloader_(url, name):
