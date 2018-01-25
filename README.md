@@ -24,7 +24,7 @@ Steps to Use:
   5. It'll show you the relevant information as well download the current Profile Picture of the user in the directory.
   
  Thanks !!!!!!!!!!!
- 
+
  
  
  ============================     For Windows Users    ==================================
@@ -41,3 +41,7 @@ Steps to Use:
   
  Tadaaaaaa !!!!!!!!!!! Now GO on stalk someone.... xD               
                 
+ ==================================================
+ 
+ If it repeatedly fails. Contact here
+                        devanshu9719@gmail.com
